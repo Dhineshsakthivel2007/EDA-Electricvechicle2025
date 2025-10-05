@@ -23,18 +23,24 @@ Visualize trends in EV body types, drivetrain, and battery technologies.
 📊 Visualizations Used
 
 Bar plots – brand vs total models, drivetrain distribution
+
 ![brand vs model](modelvsbrand.png)
 
 Histograms – distribution of range and efficiency
+
 ![Range histplot](rangehist.png)
 ![Efficiency histplot](efficencyhistplot.png)
+
 Barplots – count across different segments
+
 ![count accorss different segments](countpersegment.png)
 
 Regplots – correlation between features (e.g., battery capacity & range)
+
 ![correlation bettween ](batterycapacityandrange.png)
 
 Heatmaps – correlation matrix of numerical feature
+
 ![heatmap for all numerical features](heatmap.png)
 
 💡 Insights
